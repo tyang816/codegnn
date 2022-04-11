@@ -1,2 +1,2 @@
 # codegnn
-ICPC2020 GNN
+ICPC2020 codeGNN
